@@ -1,5 +1,4 @@
-# Maintainer: Mauro Santos <registo.mailling@gmail.com>
-# Contributer: AndyRTR <andyrtr@archlinux.org>
+# Maintainer: Ali Ahmadi <idnux09@gmail.com>
 
 pkgname='mythes-id'
 _pkgname='thes-id'
