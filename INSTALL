@@ -1,0 +1,25 @@
+Petunjuk Pemasangan
+===================
+
+Untuk memasang paket thes-id atau mythes-id ini, kita dapat
+melakukan beberapa langkah berikut:
+
+1. Pindahkan ke direktori yang berisi kode sumber paket.
+
+2. Ketik "make" untuk membangun paket.
+
+3. Ketik "make install" dengan kewenangan "root" untuk 
+memasang paket.
+
+4. Kita juga dapat membangun paket ekstensi untuk kelompok 
+perkakas perkantoran LibreOffice dan Apache OpenOffice.org dengan
+mengetik "make create_loext". Selanjutnya berkas ekstensi tersebut
+dapat kita pasang melalui menu dalam perkakas Apache OpenOffice.org
+/LibreOffice:
+"Tools -> Extensions Manager -> Add".
+
+5. Untuk menghapus berkas-berkas hasil pembangunan, kita dapat 
+mengetik "make clean".
+
+6. Selain itu, kita juga dapat mengetik "make uninstall" untuk 
+menghapus berkas-berkas yang telah terpasang.

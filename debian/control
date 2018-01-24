@@ -1,0 +1,19 @@
+Source: thes-id
+Section: text
+Priority: optional
+Maintainer: Ali Ahmadi <idnux09@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://idnux.wordpress.com/proyek/mythes-id
+
+Package: mythes-id
+Architecture: all
+Multi-Arch: foreign
+Depends: dictionaries-common, ${misc:Depends}
+Suggests: libreoffice-writer, openoffice-writer
+Provides: mythes-thesaurus, mythes-thesaurus-id
+Description: Indonesian Thesaurus for LibreOffice
+ Libreoffice is a full-featured office productivity suite that provides a
+ near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains an Indonesian thesaurus for LibreOffice.

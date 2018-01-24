@@ -1,0 +1,12 @@
+thes-id (1.0.1-1~idnux) unstable; urgency=low
+
+  * Add Makefile.
+
+ -- Ali Ahmadi <idnux09@gmail.com>  Wed, 24 Jan 2018 21:42:00 +0700
+
+
+thes-id (1.0-1~idnux) unstable; urgency=low
+
+  * Initial release.
+
+ -- Ali Ahmadi <idnux09@gmail.com>  Wed, 22 Feb 2017 08:27:19 +0700
