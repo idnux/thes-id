@@ -27,7 +27,7 @@ abdi|4
 [n]|amah|awang|babu|bayu|bedinde|benduan|bibi|budak|bujang|dayang|hamba|jongos|kaula|khadam|kuli|pelayan|pembantu|pramuwisma|sahaya|ulun
 [ant]|kamu
 [ant]|juragan
-abdi negara|
+abdi negara|1
 [n]|amtenar|aparat|pegawai negeri|pegawai pemerintah
 aben|1
 [v]|membakarmemperabukan|mengkremasi
@@ -541,7 +541,7 @@ akuan|1
 [n]|ikrar|iktikad|iman|janji|kepercayaan|keyakinan|sumpah
 akuisisi|1
 [n]|masukan|pemerolehan|perolehan
-akumulasi|
+akumulasi|1
 [n]|agregasi|konglomerasi|pelonggokan|penambahan|penghimpunan|pengumpulan|penimbunan|penumpukan
 akur|1
 [a]|asese|bersatu hati|bersetuju|cocok|damai|harmonis|kompak|lengket|mufakat|oke|rukun|sama|sehati|seia sekata|sepaham|sependirian|sesuai|setuju
@@ -1015,7 +1015,8 @@ angkat kaki|2
 angkat tangan|2
 [v]|mengacungkan tangan|tunjuk jari
 [v]|bertekuk lutut|kalah|keok|menyerah|patah semangat|putus asa|roboh|rontok|takluk|tergelincir|tersisih|tewas|tumbang|tunduk
-angkat topi|[v]|hormat|salut|segan|takzim
+angkat topi|1
+[v]|hormat|salut|segan|takzim
 angkatan|2
 [n]|armada|bala|barisan|laskar|legiun|militer|pasukan|tentara
 [n]|generasi|tingkatan
@@ -1073,7 +1074,7 @@ anjing geladak|1
 [n]|anjing buduk|anjing liar|koyok
 anjing hutan|1
 [n]|ajak|jakal|serigala
-anjing tana1
+anjing tanah|1
 [n]|gakang|orong-orong
 anjlok|1
 [v]|ambruk|drop|jatuh|jebluk|merosot|roboh|runtuh|terban|turun
@@ -1308,7 +1309,7 @@ arit|1
 arkais|2
 [a]|antik|kuno|lama|lawas|obsolet|purba|silam|tua|usang|primitif
 [ant]|modern
-arketipe|1
+arketipe|2
 [n]|prototipe|purwarupa
 [n]|acuan|cermin|contoh|eksemplar|ideal|model|paradigma|pola|referensi|teladan
 armada|1
@@ -1364,7 +1365,7 @@ asa|3
 [n]|acan|angan-angan|asan|cita-cita|harapan|hasrat|kehendak|keinginan|kerinduan|maksud
 [v]|duga|kira|sangka
 [v]|sahaja|sengaja
-asabat|
+asabat|1
 [n]|sinu|urat saraf
 asah|1
 [v]|calak|gosok|jerah|kilir|lampas
@@ -1824,7 +1825,7 @@ baik|8
 [a]|asri|patut
 [a]|oke|setuju|ya
 [ant]|buruk
-baik-baik
+baik-baik|2
 [a]|hati-hati|waspada
 [a]|serius|sungguh-sungguh
 baiklah|1
@@ -2830,7 +2831,7 @@ beradai|1
 [v]|berkepak|bersirip
 beradat|1
 [v]|berajar|berbahasa|berbudi|beristiadat|berpendidikan|bersopan santun|bertata cara
-beradu|5
+beradu|4
 [v]|bentrok|berlanggaran|berantuk|berbenturan|berciuman|berlaga|berlanggaran|berlawan|berlomba|bersabung|bersaingan|bersentuhan|bersomplokan|bertabrakan|bertanding|bertarung|bertumbukan
 [v]|berhenti|merandek|setop|terhenti
 [v]|beristirahat|mengaso
@@ -3181,7 +3182,8 @@ berbetulan|2
 [v]|searah|sejalan|setujuan
 berbiak|1
 [v]|beranak bercucu|beranak pinak|beranak|bercabang|berganda|berjangkit|berkembang|bertambah|bertumbuh|bertunas|membanyak|menular|merebak|meriap
-berbicara|3	[v]|berapat|berbahasa|berbincang|bercakap|berceramah|bercerita|berdiskusi|berembuk|berkata|berkisah|bermufakat|bermusyawarah|berpidato|bersuara|bertutur|berucap|berujar|berunding|mangap|mengobrol|mengomong|menguraikan|menjelaskan|merenjeng lidah
+berbicara|3
+[v]|berapat|berbahasa|berbincang|bercakap|berceramah|bercerita|berdiskusi|berembuk|berkata|berkisah|bermufakat|bermusyawarah|berpidato|bersuara|bertutur|berucap|berujar|berunding|mangap|mengobrol|mengomong|menguraikan|menjelaskan|merenjeng lidah
 [v]|berpendapat|bersikap
 [v]|bekerja|beraksi|bergerak|berjalan|beroperasi|bertindak
 berbiku-biku|1
@@ -3218,7 +3220,7 @@ berbondong-bondong|1
 [v]|beramai-ramai|berbanyak-banyak|berdedai-dedai|berduru|berduyun-duyun|berkusu-kusu
 berbonggol|1
 [v]|berbonjol|berbongkol|berkelesa|berpunuk
-berbuah|1
+berbuah|2
 [v]|berhasil|bertelur
 [v]|berakibat|berbuntut|berdampak
 berbuai|1
@@ -3237,7 +3239,7 @@ berbuih|1
 [v]|berbusa|bergelembung|meruap
 berbunga|1
 [v]|berbuah|berkembang
-berbunga-bunga|1
+berbunga-bunga|2
 [v]|berhiaskan
 [v]|berbahagia|bergembira|bergendang|bersenang hati|bersuka cita|menari-nari
 berbungkus|1
@@ -3836,7 +3838,7 @@ berikhtiar|1
 [v]|bertenggang|berupaya|berusaha|mencari akal|mencari jalan|mencoba|merakit
 berikrar|1
 [v]|berjanji|bersepakat|bersetuju|bersumpah|bertaki
-beriktikad|1
+beriktikad|2
 [v]|berhasrat|berkehendak|bermaksud|berniat
 [v]|berkeyakinan|percaya
 berikut|2
@@ -3938,7 +3940,7 @@ berjaya|1
 [a]|berhasil|beruntung|galib|hebat|kejatuhan bulan|menang|sukses
 berjebah|1
 [v]|banyak|berlebihan
-berjejak|1
+berjejak|2
 [v]|berdiri|berpijak|bertapak|bertekan|bertumpu
 [v]|berkesan|meninggalkan bekas
 berjejal|2
@@ -4107,7 +4109,7 @@ berkelepai|1
 [v]|terkelepai
 berkeletah|1
 [v]|bergaya|berlagak|bertingkah
-berkeliling|1
+berkeliling|2
 [v]|beredar|berkelana|berkisar|berlang-lang|berpindah-pindah|berpusar|berputar|bertualang|melegar|mengitarbermanjau|1
 [v]|berkunjung|bertandang
 berkelim|1
@@ -4168,7 +4170,7 @@ berkeputusan|1
 [v]|berakhir|berkesudahan
 berkerabat|1
 [v]|berfamili|berkeluarga|bersanak|bersaudara
-berkeriput|1
+berkeriput|2
 [v]|berkedut|berkerut
 [a]|kisut|meringsing|merunyut
 berkerotak|1
@@ -4225,7 +4227,7 @@ berkilah|1
 [v]|begana-begini|berdalih|berhelat|berkelit|berlik|bersilat lidah|bersilat kata|membohong|memutar balik|mendusta|mengada-ada|membantah|menengkari|menyanggah|menyangkal
 berkilap|1
 [v]|bercahaya|bercelak|berkaca-kaca|berkilat|berkilauan|berlinang|mengilap|merelap
-berkilau|2
+berkilau|1
 [a]|bercelak|berkaca-kaca|berkilat|berlinang|gemerlap|licau|mengilap|merelap
 berkilauan|1
 [v]|bersinar-sinar|bersinau-sinau|gemerlap|seminar
@@ -4684,7 +4686,7 @@ berpagu|1
 [v]|berloteng|bertingkat
 berpagut|1
 [v]|berdekap|berlekap|berpaut|berpalun|berpeluk
-berpagut lutut
+berpagut lutut|2
 [v]|berpeluk lutut
 [v]|berdiam diri
 berpagutan|1
@@ -5218,11 +5220,12 @@ bersemangat|2
 [v]|berjiwa|bersifat|berwatak
 bersemarak|1
 [a]|berseri|gemerlap|gilanggemilang
-bersemayam|3bersuai|1
-[v]|berpadanan|berpatutan|selaras sesuai
+bersemayam|3
 [v]|berdiam|berdomisili|berkedudukan|tinggal
 [v]|terpatri|terpendam|tersimpan
 [v]|duduk|bertakhta|bertahana
+bersuai|1
+[v]|berpadanan|berpatutan|selaras sesuai
 bersembahyang|1
 [v]|berdoa|beribadah
 bersembulan|1
@@ -5343,7 +5346,7 @@ bersih|6
 [a]|ceria|nirmala|steril|suci|safi|sportif|tahrir|asli|orisinal|otentik|sejati|tulen
 [a]|amblas|habis|kikis|labas|licin|lindang|lingkap|ludes|putus|tandas
 [ant]|kotor
-bersikap|1
+bersikap|2
 [v]|bergaya|berpose
 [v]|berbicara|berpandangan|berpendapat|berpendirian|bersuara
 bersikeras|1
@@ -5425,7 +5428,7 @@ bersisi|1
 [v]|bermuka|bersegi
 bersisian|1
 [v]|berdampingan|berdekatan|berendeng|beriringan|bersampingan|bersebelahan|sebelah-menyebelah
-bersistem|1
+bersistem|2
 [v]|berstruktur
 [a]|sistematis
 bersit|1
@@ -5459,7 +5462,7 @@ bersua|3
 [v]|terjadi|terlaksana
 bersuai|1
 [v]|berpadanan|berpatutan|selaras sesuai
-bersuara|2
+bersuara|3
 [v]|berbahana|berbunyi
 [v]|berbicara|berkata|bertutur|berucap|berujar|mangap
 [v]|berpaham|berpandangan|berpendapat|berpendirian|bersikap
@@ -5635,7 +5638,7 @@ bertanggung jawab|2
 bertanya|2
 [v]|bersoal|menanya
 [ant]|menjawab
-bertanya jawab|1
+bertanya jawab|2
 [v]|berdiskusi
 [v]|wawancara
 bertanya-tanya|1
@@ -5704,7 +5707,7 @@ bertekun|3
 bertelanjang|2
 [v]|berpukas|berbugil|terbuka|terdedah|tersingkap
 [ant]|bertutup
-bertele-tele|2
+bertele-tele|1
 [v]|berbelit-belit|berbelok-belok|berbolak-balik|berhanyut-hanyut|berkepanjangan|berlarut-larut|berleleran|berliku-liku|berpanjang-panjang|berputar lidah|berputar-putar|melantur|melantur-lantur|melebar|omong kosong
 bertelur|2
 [v]|menelur
@@ -5716,8 +5719,9 @@ berteman|4
 [v]|berbaur|bergaul|berhubungan|merasuk
 [v]|berdampingan|beriringan|bersandingan
 [ant]|bermusuhan
-bertembakan|1bertinggung|1
+bertinggung|1
 [v]|berjongkok|mencangkung|menongkrong
+bertembakan|1
 [v]|tembakmenembak
 bertembak-tembakan|1
 [v]|tembakmenembak
@@ -5744,7 +5748,7 @@ bertemu muka|1
 [v]|berhadapan muka|bertatap muka|beradu kening|berpapasan
 bertemu pandang|1
 [v]|bertembung|bertumbukan
-bertenaga|3
+bertenaga|4
 [v]|berdaya|berenergi|berkekuatan|berkemampuan
 [a]|kuat|perkasabertinggung|1
 [v]|berjongkok|mencangkung|menongkrong
@@ -6133,7 +6137,7 @@ besar cakap|1
 [a]|besar kecek|besar mulut|omong besar|pembual|besar kepala|sombong
 besar hati|1
 [a]|bangga|gembira
-besar kepala|1
+besar kepala|2
 [a]|balela|bengal|keras kepala
 [a]|aga|agul|anggak|angkuh|arogan|bengah|besar cakap|besar kecek|besar mulut|bongak|bongkak|burakah|congkak|gaduk|jemawa|kacak|langguk|lantam|mengangkat diri|pongah|rangah|sombong|tinggi hati|ujub
 besar lengan|1
@@ -6177,7 +6181,7 @@ betak-betak|1
 [n]|betik-betik|biang keringat|biring peluh|ruam
 betapa|1
 [adv]|alangkah|bagaimana pun|bagaimana|bagaimanapun juga|berapa|buatan|bukan main|bukan|lebih-lebih|meski|sungguh
-betara2
+betara|2
 [n]|batara|dewa
 [n]|batari|dewi
 betatas|1
@@ -6247,7 +6251,7 @@ biarpun|1
 bias|2
 [n]|anomali|belokan arah|deviasi|distorsi|pancaran|patahan|pencaran|penyimpangan|refraksi|sebaran|simpangan
 [n]|kecurigaan|praduga|prasangka|purbasangka|syak
-biasa|4
+biasa|5
 [a]|awam|banal|elementer|formal|gaib|jamak|kaprah|kebanyakan|kering|konvensional|lasah|lasak|lazim|lugu|lumrah|naif|natural|normal|polos|populer|prosais|reguler|rutin|sahaja|sedang|sederhana|sewajarnya|simpel|standar|stereotip|teradat|teratur|umum
 [n]|kebanyakan|preman|sipil
 [a]|cakap|lihai|luwes|mahir|pandai|piawai|terampil|terbiasa|terkondisi
@@ -6380,7 +6384,7 @@ bilingual|1
 [n]|dua bahasa|dwibahasa
 bilur|1
 [n]|bilai|calar|coreng|garit|gores
-bilyet|1
+bilyet|2
 [n]|surat berharga
 [n]|karcis|kartu
 bimbang|1
@@ -6606,7 +6610,8 @@ bolongan|1
 bolos|2
 [v]|absen|mangkir
 [ant]|hadir
-bolsak|	[n]|kasur|pembaringan|ranjang|tempat tidur|tilam
+bolsak|1
+[n]|kasur|pembaringan|ranjang|tempat tidur|tilam
 bom|1
 [n]|peledak
 bombastis|1
@@ -7472,7 +7477,7 @@ cecah|3
 [v]|mencocol|mencolek|mengambil
 [v]|mencuil|menggamit|mengguit|menggutik|mengubit|menjawil|menowel|menyentuh
 [v]|memijak|mengencang|mengenjak|mengentak|menginjak|mengirik|menjejak
-cecak|1
+cecak|2
 [v]|memirik|mencubit|mengetip|menggutik|mengubit|menjentik|menjiwit
 [v]|menceluk|mencilok|mencopet|mengambil
 cecap|2
@@ -7824,10 +7829,10 @@ cengkok|1
 [a]|belengkok|beliut|bengkok|bengkong|bengkung|lantik|lengkok|melengkung|ruit
 cengkol|1
 [a]|belok|kelok|pengkol|tikung
-cengkung|3
+cengkung|2
 [a]|caung|cekung|kempot|kempung|kunyam
 [ant]|cembung
-cengkung|1
+cengkung|2
 [v]|bertinggung|duduk berjongkok|mencangkung|mencongkong|merangkung
 [a]|jujur|patut|sudah semestinya
 cengung|1
@@ -8619,7 +8624,7 @@ darah biru|1
 [n]|adiwangsa|aristokrat|bangsawan|menak|ningrat|priayi
 darah daging|1
 [n]|anak|anak kandung|ananda|famili|kadim|kaum|keluarga|kerabat|keturunan|klan|marga|sanak|saudara
-darah tinggi|1
+darah tinggi|2
 [n]|bludrek|hipertensi
 [a]|berangsangan|bingas|merongos|pemarah|pembawang|pemberang|pemberangsang|peradang|perampang|sempit hati
 daras|1
@@ -10126,7 +10131,7 @@ fantasi|2
 fantastis|2
 [a]|dahsyat|fenomenal|luar biasa|menakjubkan|spektakuler
 [a]|delusif|fiktif|imajinatif|ilusif|khayali
-fardu|2
+fardu|3
 [n]|kadim|keharusan|ketentuan|kudu|mesti|musti|pasti|wajib
 [ant]|haram
 [ant]|sunah
@@ -10163,7 +10168,7 @@ fatal|1
 [a]|berat|buruk|celaka|mematikan|parah|membahayakan|menyulitkan|teruk
 fatamorgana|1
 [n]|bayang-bayang|delusi|fantasi|halusinasi|ilusi|khayal|mirat
-fatanah|
+fatanah|1
 [a]|cerdas|cerdik|pintar
 fatinah|1
 [n]|pembukaan
@@ -10659,7 +10664,7 @@ garang|1
 [a]|anggara|barak|bengis|berangasan|beringas|buas|galak|ganas|liar|menyeramkan|pemarah|pemberang|sangar|sempit hati|sengit|tajam
 garansi|1
 [n]|agunan|andalan|gadaian|jaminan|pertanggungan|runggu
-garap|2
+garap|3
 [v]|melakukan|membenahi|membereskan|memproses|menangani|menekel|mengendalikan|mengerjakan|mengolah|mengusahakan|mengurus|menyelesaikan|menyusun
 [v]|memerkosa|mencabuli|menceroboh|menggagahi|menggauli|meniduri|menjamah|menjimak|menodai|menyetubuhi|menyodok|menyorong|merodok|merogol
 [ant]|membiarkan
@@ -10835,7 +10840,7 @@ geladak|3
 [n]|dasar|dek|lantai|lunas
 [n]|barak|bedeng|bilik|kamar|ruang
 [a]|binal|jalang|janda|lacur|liar|nakal|panjang mata
-gelagap|4
+gelagap|3
 [v]|berkempul-kempul|engap-engap|kembang-kempis|megap-megap|memburu|mencengap|mengagut-agut|mengap-mengap|ngos-ngosan|susul-menyusul|terengah-engah|terkapah-kapah|termengah-mengah|tersengal-sengal
 [a]|bingung|buncah|gamam|ganar|gelisah|kalang-kabut|kelabakan|kelimpungan|kepompongan|kerepotan|mencacau|nanar|panik|salah tingkah|senewen|tersara-bara
 [a]|bergugup|patah lidah|terbata-bata|tergagap-gagap|tergaguk-gaguk|tergugu-gugu|terpatah-patah|terputus-putus|tersendat-sendat
@@ -10883,7 +10888,7 @@ geleber|1
 geledah|2
 [v]|membongkar-bongkar|mengaduk-aduk|menggeratak|meraba-raba|merisik
 [n]|pemeriksaan|pencarian|razia
-geledek|2
+geledek|1
 [n]|guntur|guruh|halilintar|petir|petus|tagar
 geledur|1
 [v]|berlipat-lipat
@@ -11554,7 +11559,7 @@ gongli|1
 [n]|pelacuran|persundalan|prostitusi
 gongseng|1
 [v]|menggoreng|menyangrai
-goni|1
+goni|2
 [n]|rami|yute
 [n]|bal|bandela|karung|sak
 gonjak|1
@@ -12564,7 +12569,7 @@ ikhtisar|1
 ikhwan|2
 [n]|bendu|dongan|kawan|kenalan|sahabat|sejawat|sobat|teman
 [ant]|musuh
-iklan|1
+iklan|2
 [n]|advertensi|pariwara|promosi|reklame
 [n]|propaganda|publisitas|siaran
 iklim|2
@@ -13471,12 +13476,12 @@ jagal|1
 [n]|pembantai|pembunuh|pemenggal|pemotong|penggorok|penjagal|penyembelih|tukang jagal|tukang potong|tukang sembelih
 jagat|1
 [n]|alam|angkasa|ardi|bentala|bua-na|bumi|butala|dunia|globe|johan|kosmos|langit
-jagat maya|1
+jagat maya|2
 [n]|dunia maya|dunia internet
 [n]|dunia gaib|dunia lelembut
 jagat raya|1
 [n]|alam besar|alamin|alam kabir|alam semesta|makrokosmos|universum
-jago|1
+jago|2
 [n]|ayam jantan
 [n]|jagoan|juara|jawara|kampiun
 jago merah|1
@@ -15359,7 +15364,7 @@ kecanduan|1
 kecantikan|2
 [n]|jamal|keanggunan|kebagusan|kebaikan|keelokan|kegagahan|keindahan|kejelitaan|kejombangan|kemanisan|kemolekan|kemungelan|kepermaian|ketampanan
 [ant]|kejelekan
-kecap|2
+kecap|3
 [n]|capak|cepak|rapik|tahi angin
 [n]|saus
 [n]|bualan|cakap angin|isapan jempol|omong kosong|temberang
@@ -15923,7 +15928,7 @@ kekompakan|1
 kekosongan|2
 [n]|kehampaan|kevakuman
 [n]|kesepian
-kekuasaan|1
+kekuasaan|2
 [n]|adikara|dominasi|gigi|kadar|kedaulatan|kekuatan|kewenangan|kontrol|kuasa|mahkota|otoritas|supremasi|takhta|wewenang
 [n]|karisma|pengaruh|wibawa
 kekuatan|4
@@ -16362,7 +16367,7 @@ kembang kempis|1
 kembar|2
 [a]|sebandung|sepasang
 [n]|dobel|ganda|rangkap
-kembung|3
+kembung|4
 [n]|berandang|jelapang|kapuk|lumbung|rangkiang|tangkaian
 [a]|balut|bengkak|berdus|besar|boyak|bulat|buncit|buntak|buntal|buntar|busung|gelembung|gembung|gendut|kelembung|melembung|pusang
 [a]|begah|sambau|senak
@@ -17991,7 +17996,7 @@ kilar|1
 [n]|barai|berangas|lengkitang|lokan|siput|ukas
 kilas|1
 [n]|kilat
-kilas balik|1
+kilas balik|2
 [n]|refleksi|retrospeksi
 [n]|sorot balik
 kilat|3
@@ -18199,7 +18204,7 @@ kobra|1
 kocak|2
 [a]|banyol|jenaka|komikal|lucu|menggelakkan|menggelikan
 [a]|goyang|guncang|kocok
-kocar-kacir|1
+kocar-kacir|2
 [a]|berjempalitan|bertemperasan|cerai-berai|lintang-pukang|pontang-panting|terbirit-birit|tunggang-langgang
 [a]|berantakan|berpesai-pesai|kacau|kisruh|morat-marit|ricuh|semrawut
 kocek|1
@@ -18809,7 +18814,7 @@ kritik|1
 [n]|apresiasi|catatan|celaan|iktirad|kecaman|komentar|penilaian|pertimbangan|sanggahan|siasat|suara miring|teguran
 kritikus|1
 [n]|komentator|kritisi|pengulas|penilai
-kritis|2
+kritis|3
 [a]|peka|perseptif|responsif|tanggap|tajam|teliti|vokal
 [a]|darurat|gawat|genting|krisis|krusial|panas|sekarat|serius|tegang|terancam|urgen
 [a]|akut|berat|biut|gawat|genting|keras|kronis|membandel|menahun|parah|payah
@@ -19084,7 +19089,7 @@ kundangan|3
 [n]|kesayangan
 [n]|anak emas|anak berkundang|buah hati
 [v]|biduanda|juak-juak
-kundur|
+kundur|1
 [n]|beligo|labu besar
 kungkung|1
 [n]|belok|pasung
@@ -19380,7 +19385,7 @@ lajur|3
 [n]|banjar|deret|jajar|jejer|larik|leret|ririt|saf
 [n]|jalur|kolom|pias|ruangan
 [n]|baris|garis|setrip
-laki|4
+laki|3
 [n]|adam|laki-laki|lanang|lelaki|maskulin|pria|bujang|cowok|jaka|jejaka|pemuda|perjaka|jantan
 [n]|junjungan|suami
 [ant]|perempuan
@@ -19510,13 +19515,11 @@ lamun|5
 [p]|namun|tetapi
 [p]|biarpun|kendatipun|meskipun|sungguhpun|walaupun
 [p]|apabila|asalkan|jikalau
-[v]|melonggokkan|membumbun|mengonggokkan|menimbun|menumpukkan
-[v]|membanjiri|menakung|mencacapi|mengacapi|mengampuh|mengempohi|menggenangi|merendam
 lamunan|1
 [n]|angan-angan|impian|khayalan
 lamur|1
 [a]|cadok|rabun
-lancang|2
+lancang|3
 [a]|cempala|gerenyau
 [a]|brutal|kurang ajar|sumbang|tak tahu adat|vulgar|kasar|saru|memalukan
 [a]|bersanding|calak|canggih|cempala mulut|lancar mulut|cencala|keras|ketus|menyembilu|menyengat|pedas|sengit|tajam
@@ -19863,7 +19866,7 @@ lebat|3
 lebih|2
 [a]|bertambah|kian|makin
 [ant]|kurang
-lebih dahulu|1
+lebih dahulu|2
 [adv]|sebelumnya
 [adv]|mula-mula|pada awalnya|pertama-tama
 lebih jauh|1
@@ -20218,7 +20221,7 @@ lesu|3
 [ant]|segar
 lesu darah|1
 [n]|anemia|kurang darah
-lesung|1
+lesung|2
 [n]|lumpang
 [a]|caung|cawak|ceduk|legok
 lesung pipi|1
@@ -21518,7 +21521,7 @@ masyhur|2
 [ant]|biasa|kebanyakan
 mat kodak|1
 [n]|fotografer|juru foto|juru potret|pemotret|tukang potret
-mata|3
+mata|2
 [n]|ain|alat penglihat|arah|benih|fokus|indra penglihat|lubang|netra
 [n]|pokok|punat|punca|pusat|sumber|titik berat|tunas
 mata air|1
@@ -22034,7 +22037,7 @@ melenceng|2
 [v]|bergeser|lari|meleset|menyembir|menyimpang|terkehel|luncas|luput|sipi
 meleng|1
 [a]|lalai|lena|lengah|seleder|terpica
-melengah|1
+melengah|2
 [a]|lengah
 [v]|meliput|memperlalaikan|mempersenang|mengempenak|menghibur|menyenangkan
 melengahkan|2
@@ -22152,7 +22155,7 @@ melilit|3
 [v]|melingkari|membelit|mencerut
 [v]|membalut|membarut|membebat|mengebat
 [a]|mulas|perih
-meliliti|1
+meliliti|2
 [v]|membelit
 [v]|mengelilingi|mengitari
 melilitkan|1
@@ -23310,7 +23313,7 @@ membonekakan|1
 [v]|memperalat|mempergunakan|mempermainkan
 membongak|1
 [v]|bergaduk|berlagak|bermegah|menggadang|menyombong|sok
-membongkar|6
+membongkar|5
 [v]|menerbankan|menggusur|menghancurkan|merampak|merobohkan|merombak|meruntuhkan|merusakkan
 [v]|menarik|mengangkat
 [v]|memunggah|menurunkan
@@ -24764,7 +24767,7 @@ menapus|1
 [v]|memerah|memeras|memulas|meremas
 menara|1
 [n]|benara|tower
-menara air|1
+menara air|2
 [n]|reservoir|wadukmenayang|1
 [v]|membawa|menanai|menanang|menatang|menating
 menara api|1
@@ -25052,7 +25055,7 @@ mencelah|1
 mencelak|2
 [v]|memalit|memulas|mengalit|menyipat
 [v]|melampas|mencalak|mengasah|menggosok|menyerudi
-mencelakakan|2
+mencelakakan|3
 [v]|melukai|mencederai
 [v]|melondongkan|melucutkan|menggerupukkan|menjahanamkan|menjerumuskan|menohok|menyesatkan|meracuni|mermenebeng|1
 [v]|membonceng|mendompleng|menempel|menumpang|ikut|turutusak
@@ -25084,7 +25087,7 @@ menceng|2
 [ant]|lurus
 mencentong|1
 [v]|mencedok|menciduk|menyauk|menyendok|mengambil
-mencepak-cepak|1
+mencepak-cepak|2
 [v]|mencapak-capak|mengecap-ngecapmenenok|1
 [v]|membidik|menyasar
 mencepol|2
@@ -25145,7 +25148,7 @@ mencicik|1
 [v]|membenci
 mencicipi|1
 [v]|mencobai|merasai
-menciduk|2
+menciduk|3
 [v]|menanjur|mencedok|mengambil|menggayung|menyauk|menyendok|menyerokmenebeng|1
 [v]|membonceng|mendompleng|menempel|menumpang|ikut|turut
 [v]|membekuk|menahan|menangkap|menawan|mencekal|mencomot|menculik|mengamankan|menyergap|menyerkap|meringkus
@@ -25292,7 +25295,7 @@ mencurahkan|3
 [v]|melimpahkan|mencucurkan|mengucurkan|menuangkan|menumpahkan|menyalurkan|meruahkan
 [v]|melampiaskan|memuaskan|mengerahkan|menuntungkan|menumpukkan
 [ant]|memendam
-mencuraikan|2
+mencuraikan|3
 [v]|melepaskan|memberaikan|memburaikan|menceraikan|mencerai-beraikan|menguraikan|meretasmenenok|1
 [v]|membidik|menyasar
 [v]|memaparkan|membabarkan|membayankan|membeberkan|membentangkan|menegaskan|mengagak-agihkan|menggambarkan|menghamparkan|menguraikan|menjabarkan|menjelajahkan|menjelaskan
@@ -25313,7 +25316,7 @@ mencurigakan|1
 [v]|menyangsikan|meragukan
 mendacin|1
 [v]|menimbang|mengukur|menyukat
-mendada|2
+mendada|1
 [v]|menahan|menangkis|menghadang|melawan|menghadapi|menjawab|menongkah|menyambut|menyambut serangan|menyongsong
 mendaftar|1
 [v]|mencatat|mendata|mengindeks|menginventarisasi
@@ -25343,7 +25346,7 @@ mendakwahkan|1
 [v]|memaklumkan|mengembangkan|menabligkan|mensyiarkan|menyebarkan|menyerukan|menyiarkan
 mendakyahkan|1
 [v]|mengindoktrin|mempropagandakan|memublikasikan|menyebarkan|menyerantakan|menyiarkan
-mendalam|5
+mendalam|6
 [v]|lanjut|meluas|menghunjam|menusuk|merasuk|meresap
 [a]|tebal|tebal iman|teguh|kukuh|terperinci
 [a]|benar-benar|serius|sungguh-sungguh
@@ -25641,7 +25644,7 @@ menduakan|1
 menduduki|2
 [v]|mendiami|menempati|menghuni|meninggali|menunggui|tinggal
 [v]|memangku|memasuki|memegang|menaklukkan|mencaplok|mencengkeram|mengalahkan|mengambil|menganeksasi|menguasai|menjajah|menyerobot|merebut|meruntun
-mendudukkan|3
+mendudukkan|4
 [v]|mempersilakan|mempersilakan duduk|menyuruh
 [v]|meletakkan|memperumahkan|menempatkan|menyemayamkan
 [v]|memasangkan|membaurkan|mempertemukan|mempertunangkan|mengawinkan|mengijabkan|menikahkan|menjodohkan|menmenelikung|1
@@ -25716,7 +25719,7 @@ meneduhi|1
 [v]|melindungi|menaungi
 meneduhkan|1
 [v]|menenangkan|menghentikan|meredakan
-menegah|4
+menegah|6
 [v]|melarang|mengekang|menjangankan|mengharamkanmenepis|2
 [v]|menangkis|mengiprat|menyampuk
 [v]|menampik|menolak|membantah|menengkari|menyanggah|menyangkal|menyolang
@@ -25819,7 +25822,8 @@ menembaki|1
 menembakkan|1
 [v]|memicu
 menembakkan kamera|1
-[v]|memfoto|memotret|menjepretmenerobos|3
+[v]|memfoto|memotret|menjepret
+menerobos|3
 [v]|mendobrak|menyerang|menyerbu|menyerobot|menerabas|menyusup|masuk menerus|merembes
 [v]|membuka|meretas|merintis
 [v]|memintas|memotong|merintas|merintas jalan|potong kompas
@@ -26227,7 +26231,7 @@ mengadili|1
 [v]|memeriksa|memperhitungkan|mempertimbangkan|meneliti|menghakimi|menilai
 mengadreskan|1
 [v]|mengalamatkan|menujukan
-mengadu|3
+mengadu|4
 [v]|memperhadapkan|memperlagakan|memperlawankan|memperlombakan|mempertandingkan|mempertarungkan|mempertemukan|menyabung
 [v]|melanggarkan|melapor|memanas-manasi|memancing|memberi tahu|memperkarakan|memprovokasi|mendakwa|mengabung|menggugat|menghasut|mengipasi|mengocok|mengompori
 [v]|mengantukkan|menyentuhkan|menyenggolkan
@@ -27332,7 +27336,7 @@ menggeledek|1
 [v]|bertagar|memetir-metir|mendegam-degam|menggelegar|menggemuruh
 menggelegar|1
 [v]|bertagar|memetir-metir|mendegam-degam|menggeledek|menggemuruh
-menggelembung|1
+menggelembung|2
 [v]|melembung|melendung|membelenting|mengembung|menggembung|membengkak|membesar
 [v]|berkedut|berkeriput|berkerut-kerut
 menggelembungkan|2
@@ -28563,7 +28567,7 @@ mengurut kuduk|1
 mengurutkan|2
 [v]|membariskan|menderetkan|mengatur|menjajarkan|menyusun
 [ant]|mengacak
-mengusahakan|2
+mengusahakan|3
 [v]|memperjuangkan|mencarikan jalan|menyurihkan jalan|mengakali|mengikhtiarkan|mengupayakan|menuntut|menyiasati
 [v]|mengerjakan|menggarap|menjalankan|membuat|mengadakan
 [v]|memelihara|mengelola|mengurus|menyelenggarakan
@@ -29042,7 +29046,7 @@ menodong|2
 [v]|mendapuk|mendaulat
 menodongkan|1
 [v]|membidikkan|mengacukan|mengacungkan|mengarahkan|menujukan|menyasarkan
-menohok|2
+menohok|1
 [v]|mencatuk|menikam|menusuk
 menohorkan|1
 [v]|mengeringkan|meringkaikan
@@ -29983,7 +29987,7 @@ menyeluruh|2
 [a]|besar|bulat|ekstensif|ensiklopedis|integral|komplet|komprehensif|lengkap|utuh
 menyeluruhi|1
 [v]|melingkungi|melingkupi|meliputi|mencakup|merangkum
-menyelusur|1
+menyelusur|2
 [v]|melorot|melulur|meluncur|memberosot|menggelincir|menggelongsor|meyelusuh|turun
 [v]|melorot|meluncur|menggelincir|menggelongsor|merosot
 menyemaikan|2
@@ -30323,7 +30327,7 @@ menyetarakan|1
 menyetel|2
 [v]|mencocokkan|mengatur
 [v]|memasang|memutar|mengaktifkan|menghidupkan|menyalakan
-menyetem|1
+menyetem|2
 [v]|menala
 [v]|mengundi
 menyetik|1
@@ -32444,7 +32448,7 @@ notasi|1
 [n]|catatan
 notes|1
 [n]|bloknot
-notifikasi|2
+notifikasi|1
 [n]|catatan|deklarasi|informasi|pariwara|pemberitahuan|pengumuman|peringatan|proklamasi|publikasi
 notula|1
 [n]|catatan|notulen|risalah
@@ -33125,7 +33129,7 @@ paguyuban|1
 [n]|asosiasi|ikatan|kekerabatan|komunitas|masyarakat|perkumpulan|persatuan
 paha|1
 [n]|pukang
-paha belalang|1
+paha belalang|2
 [n]|jarum biku|peniti
 [n]|pegas|per
 pahala|1
@@ -33458,7 +33462,7 @@ panggil|2
 panggilan|2
 [n]|ajakan|anjuran|imbauan|lambaian|permintaan|seruan|undangan
 [n]|julukan|nama|sapaan|sebutan
-panggul|2
+panggul|1
 [n]|pangkal paha|pinggul
 panggul|1
 [v]|membagul|membawa|memikul|membopong|menanggung|mendukung|menjulang|menyandang|menyompoh|menyondang
@@ -33853,7 +33857,7 @@ pasung|1
 patah|2
 [a]|bias|kupak|pukah|sempal|terpenggal|terpotong
 [a]|bubar|kandas|terhenti
-patah hati|1
+patah hati|3
 [a]|kecewa|mutung|sakit hati|terpukul
 [a]|bergidik|cabar hati|kecil hati|ciut|cuak|gayat|gecar|gentar|kecut|keder|ngeri|takut
 [a]|hilang kemauan|putus asa
@@ -33984,7 +33988,7 @@ payau|1
 [a]|asin|masin
 payu|1
 [a]|laku|laris|larap
-payudara|2
+payudara|1
 [n]|buah dada|susu|tetek
 payung|2
 [n]|parasut|payung udara
@@ -35580,7 +35584,7 @@ pendongeng|1
 [n]|pencerita|penutur|perawi
 pendorong|1
 [n]|penganjur|penggerak|penggiat|penolak|penyorong|perangsang|promotor
-penduduk|1
+penduduk|2
 [n]|masyarakat|orang|penghuni|penunggu|populasi|rakyat|warga negara|warga
 [ant]|pendatang
 pendudukan|1
@@ -36025,7 +36029,7 @@ pengembalian|1
 [n]|pemulangan
 pengembang|1
 [n]|developer
-pengembangan|2
+pengembangan|1
 [n]|ekspansi|peningkatan|pembangunan|perluasan
 pengembangbiakan|1
 [n]|kultivasi|pembudidayaan|penangkaran|pengusahaan
@@ -37365,7 +37369,8 @@ perbauran|1
 [n]|percampuran|pergaulan|perkawinan|pernikahan
 perbawa|1
 [n]|karisma|pamor|pengaruh|wibawa
-perbedaan|1	[n]|antagonisme|diskrepansi|dismilaritas|disparitas|distingsi|divergensi|farak|kelainan|kontras|parak|pertikaian|selisih|variasi
+perbedaan|1
+[n]|antagonisme|diskrepansi|dismilaritas|disparitas|distingsi|divergensi|farak|kelainan|kontras|parak|pertikaian|selisih|variasi
 perbekalan|1
 [n]|logistik|peralatan|perlengkapan
 perbendaharaan|1
@@ -38035,7 +38040,7 @@ persuaan|1
 [n]|perjumpaan|pertemuan
 persuasi|1
 [n]|bujukan
-persurata|2
+persurata|1
 [n]|kepustakaan|perpustakaan
 pertahanan|2
 [n]|defensi|penjagaan|proteksi
@@ -39710,7 +39715,7 @@ puter|1
 [n]|balam|dederuk|tekukur
 puti|1
 [n]|putri
-putih|2
+putih|3
 [a]|bersih
 [a]|murni|suci
 [a]|kucam|pucat
@@ -40719,7 +40724,7 @@ rona|1
 [n]|corak|dandan|warna
 ronce|1
 [v]|merampas|merompok|menyamun|merampok
-ronda|
+ronda|1
 [v]|bersiar-siar|makan angin|sambang
 rondah-randih|1
 [a]|kacau balau
@@ -41848,7 +41853,7 @@ sedikit demi sedikit|1
 sedikit-dikitnya|2
 [adv]|sedikitnya
 [ant]|sebanyak-banyaknya
-sedikit-sedikit
+sedikit-sedikit|2
 [a]|sedikit demi sedikit
 [a]|barang sedikit|sedikit banyak
 sedikit-sedikitnya|2
@@ -42021,7 +42026,7 @@ sekali|3
 [num]|sekaligus|seluruhnya|semuanya
 [adv]|amat|banget|betul-betul|sangat|terikterlalu|terlampau|sungguh|sungguh-sungguh
 [adv]|paling
-sekali lalu|1
+sekali lalu|2
 [num]|sekaligus
 [adv]|sambil|sembari|seraya
 sekali-kali|2
@@ -42121,7 +42126,7 @@ sekolah|3
 [v]|bersekolah
 sekolah musik|1
 [n]|konservatorium
-sekolah raja|
+sekolah raja|1
 [n]|sekolah guru
 sekolah tinggi|1
 [n]|akademi|perguruan tinggi|universitas
@@ -42643,7 +42648,8 @@ semu|4
 [a]|imajiner|khayal|maya|kuasi|palsu|pseudo|pura-pura
 [n]|akal|kiat|muslihat|taktik|trik
 [ant]|nyata
-[adv]|agak|rada|sedikitsesumbar|1
+[adv]|agak|rada|sedikit
+sesumbar|1
 [v]|bergaduk|bersumbar|menggadang|meninggikan diri|menyombong|menyumbar|merangah|meruap|menantang
 semu daya|1
 [n]|tipu daya
@@ -43417,7 +43423,7 @@ setrup|1
 setubuh|2
 [n]|sebadan
 [n]|cocok|seia sekata
-setuju|1
+setuju|2
 [n]|setujuan
 [n]|akur|mufakat|putus kata|sepakat
 setujuan|1
@@ -43699,10 +43705,11 @@ simpang empat|1
 [n]|perempatan|silang empat
 simpang sungai|1
 [n]|anak sungai
-simpang-siur|2sesumbar|1
-[v]|bergaduk|bersumbar|menggadang|meninggikan diri|menyombong|menyumbar|merangah|meruap|menantang
+simpang-siur|2
 [a]|berantakan|centang-perenang|kacau|kisruh|kocar-kacir|morat-marit|semrawut
 [a]|berselit-selit|bersengkarut|kusut
+sesumbar|1
+[v]|bergaduk|bersumbar|menggadang|meninggikan diri|menyombong|menyumbar|merangah|meruap|menantang
 simpati|4
 [n]|afeksi|afinitas|belas kasih|empati|iba|nuraga|patos|pengertian|sayang|syafakat
 [v]|tenggang rasa
@@ -44684,7 +44691,6 @@ sumbing|3
 sumbu|2
 [n]|aksis|as|gandar|pivot|poros
 [n]|api-api|murang|tali api|tunam|upet
-[n]|cula|cula badak
 sumbu badak|1
 [n]|cula|cula badak
 sumbu bumi|1
@@ -45657,7 +45663,7 @@ tangkai kering|1
 [n]|bakhil|kejam|kikir|pantat kuning|pelit
 tangkal|1
 [v]|mencegah|menegah|menjauhkan|menolak|mengawasi|menjaga
-tangkap|6
+tangkap|7
 [v]|melipat|membekuk|mencekal|menciduk|mencomot|mengambil|menubruk|menyergap|menyerkap|meringkus|mencokok|menahan|menawan|mengamankan|mengangkat
 [v]|mencakup|mencaplok|merangkap|mencengkeram|menerkam|mengatup
 [v]|memetik|mengail|menjala|menjaring|menjerat|menadah|menampung|menerima|menyambut
@@ -46357,7 +46363,7 @@ temperau|1
 [v]|membangkit-bangkit|mengorek-ngorek|mengungkit-ungkit keburukan|mengungkit-ungkit kesalahan|mengungkit-ungkit
 tempiar|1
 [v]|bercerai-berai|berhamburan|berserakan|bubar|buyar|kocar-kacir|lintang-pukang|mengaprit|pontang-panting|terbirit-birit|tungganglanggang
-tempias|
+tempias|1
 [n]|percik|percikan|renjis
 tempik|1
 [n]|jerit|laung|pekik|sorak|teriak
@@ -46428,7 +46434,7 @@ tendensius|1
 tengadah|2
 [v]|melenggak|mencongak|mencugat|mendongak
 [ant]|menunduk
-tengah|5
+tengah|6
 [n]|pusat|senter|sentral
 [n]|antara|sela-sela
 [n]|para|paruh|perdua
@@ -47885,7 +47891,7 @@ tersembunyi|2
 [a]|laten|potensial|samar|siluman|terselubung|gaib|sir
 tersembur|1
 [v]|tepercik|terhambur|terpancar
-tersemu|
+tersemu|1
 [v]|teperdaya|terjerat|terjebak|terkecoh|terkena|terpukau|tertipu
 tersenak|2
 [v]|bencat|gencat|pampat|terhambat|tersumbat|tersumpal
@@ -47898,7 +47904,7 @@ tersendat-sendat|3
 [a]|tertahan-tahan
 [a]|bengap|gelagapan|gugup|patah lidah|terbata-bata|tergagap-gagap|tergaguk-gaguk|tergugu-gugu|terkosel-kosel|terpatah-patah|terputus-putus
 [ant]|lancar
-tersendiri|3
+tersendiri|2
 [v]|kesorangan|terasing|terkucil|terpencil|terpisah|tersaku|tersisih[a]|distingtif|eksklusif|idiosinkratis|individual|istimewa|karakteristik|khas|khusus|partikular|privat|spesial|spesifik|tertentu|unik
 [ant]|umum
 tersengal-sengal|1
@@ -48282,7 +48288,7 @@ tes|2
 [n]|eksperimen|penelitian|pengecekan|percobaan|uji|verifikasi
 tesaurus|1
 [n]|bausastra|daftar istilah|kamus|kitab logat|kosakata|senarai istilah|vokabuler
-tesis|2
+tesis|3
 [n]|disertasi
 [n]|asumsi|hipotesis|postulat|premis|proposisi
 [n]|ide|jalan pikiran|opini
@@ -48301,7 +48307,7 @@ tetap|6
 [a]|abadi|abid|baka|baki|daim|kekal|langgeng|lestari
 [ant]|berubah
 [ant]|fana
-tetap hati|1
+tetap hati|2
 [a]|keras hati|kuat|tabah|teguh
 [a]|kukuh|mantap|percaya diri|tunak hati|tunggang hati
 tetapan|1
@@ -48355,7 +48361,7 @@ tiarap|2
 tiba|2
 [v]|datang|muncul|sampai
 [v]|menginjak|mulai
-tiba-tiba|2
+tiba-tiba|1
 [adv]|sekonyong-konyong|mendadak|datang-datang|tahu-tahu|terserempak|seketika
 tiban|1
 [v]|menimpa|menindih|menumpang|menjatuhi
@@ -48449,7 +48455,7 @@ timbul|4
 [v]|menjendul|menonjol
 [v]|bangkit|lahir|terbit|tumbuh
 [ant]|tenggelam
-timbul tenggelam|1
+timbul tenggelam|2
 [v]|turun naik
 [v]|pasang surut
 timbun|1
@@ -48466,7 +48472,7 @@ timpal|2
 timpang|2
 [a]|encot|incang-incut|jengkot|kipa|miring|oleng|pengkor|pincang
 [a]|berat sebelah|imbal|senjang
-timpas|3
+timpas|2
 [a]|kering|tohor
 [a]|bersih|habis|licin|ludes|tandas
 timpas|1
@@ -48495,7 +48501,7 @@ tindas|3
 tindasan|2
 [n]|represi|supresi|tekanan
 [n]|arsip|kopi|pertinggal|salinan|tembusan|turunan
-tindih1
+tindih|1
 [v]|bertumpang tindih|bertumpukan
 tindik|1
 [v]|melubangi|mencocok|menembuk|menusuk|menyunduk
@@ -48970,7 +48976,7 @@ tubrukan|2
 tubuh|2
 [n]|awak|badan|fisik|jasad|jasmani|raga
 [n]|batang tubuh|rangka|torso
-tuding|2
+tuding|4
 [a]|condong|miring
 [a]|lancip|runcing|tirus
 [v]|tunjuk
@@ -50013,7 +50019,7 @@ vibrasi|1
 [n]|denyut|getaran|goyangan|guncangan|pulsa|renyut
 video|1
 [n]|film|gambar bergerak
-vila|2
+vila|1
 [n]|anglung|bungalo|paviliun|peranginan|pesanggrahan|rumah peristirahatan|wisma
 violet|1
 [a]|lembayung|lila|ungu
@@ -50104,7 +50110,7 @@ wajan|1
 wajar|2
 [a]|alami|alamiah|biasa|bersahaja|galib|lazim|lumrah|natural|normal|prasaja|sederhana
 [a]|adil|proporsional|seimbang
-wajib|1
+wajib|2
 [adv]|harus|hendaklah|kudu|mesti|patut|perlu|tentu|tetap
 [ant]|sunah
 wakaf|2
