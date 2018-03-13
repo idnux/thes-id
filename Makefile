@@ -5,7 +5,7 @@ CONV_SCRIPT = tool/th_gen_idx.pl
 SRCFILE = thes_id.txt
 OUTFILES = th_id_ID_v2.dat th_id_ID_v2.idx
 PACKAGE = mythes-id
-VERSION = 1.0.1
+VERSION = 1.0.2
 LOEXT = indonesian-thesaurus
 LOEXT_PACKAGE = $(LOEXT)-$(VERSION)
 

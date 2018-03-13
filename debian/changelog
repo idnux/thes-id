@@ -1,3 +1,10 @@
+thes-id (1.0.2-1~idnux) unstable; urgency=low
+
+  * Fix missing or incorrect line counts (Thanks to Mr. Andika Triwidada <atriwidada@src.gnome.org>).
+
+ -- Ali Ahmadi <idnux09@gmail.com>  Tue, 13 Mar 2018 22:42:00 +0700
+
+ 
 thes-id (1.0.1-1~idnux) unstable; urgency=low
 
   * Add Makefile.

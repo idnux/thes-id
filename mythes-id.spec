@@ -1,12 +1,12 @@
 Summary: Indonesian thesaurus.
 Name: mythes-id
-Version: 1.0.1
+Version: 1.0.2
 Release: 1.idnux
 License: LGPL
 BuildArch: noarch
 Requires: mythes
 Group: Applications/Text
-Source: https://github.com/idnux/thes-id/archive/1.0.1.tar.gz
+Source: https://github.com/idnux/thes-id/archive/1.0.2.tar.gz
 URL: https://idnux.wordpress.com/proyek/mythes-id
 
 %description
@@ -15,7 +15,7 @@ Indonesian Thesaurus for LibreOffice.
 This package contains an Indonesian thesaurus for LibreOffice.
 
 %prep
-%autosetup -n thes-id-1.0.1
+%autosetup -n thes-id-1.0.2
 %build
 make
 
@@ -36,6 +36,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/mythes/*
 
 %changelog
+* Tue Mar 13 2018 Ali Ahmadi <idnux09@gmail.com>
+- Fix missing or incorrect line counts (Thanks to Mr. Andika Triwidada - <atriwidada@src.gnome.org>).
+
 * Wed Jan 24 2018 Ali Ahmadi <idnux09@gmail.com>
 - Add Makefile.
 
