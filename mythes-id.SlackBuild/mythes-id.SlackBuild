@@ -51,8 +51,8 @@ unset DOWNLOAD
 eval `cat $PRGNAM.info | grep "DOWNLOAD="`
 if [ ! -e $(basename $DOWNLOAD) ]; then
   echo "Downloading: $DOWNLOAD"
-  rm -rf $_PRGNAM
-  git clone $DOWNLOAD
+  rm -f $_PRGNAM-$VERSION.tar.*
+  curl -OLJ -C - $DOWNLOAD
 fi
 
 if [ "$ARCH" = "i586" ]; then
@@ -74,9 +74,9 @@ set -e
 rm -rf $PKG
 mkdir -p $WRK $PKG $OUTPUT
 cd $WRK  || exit 1
-rm -rf $_PRGNAM
-cp -r $CWD/$_PRGNAM $WRK || exit 1
-cd $_PRGNAM  || exit 1
+rm -rf $_PRGNAM-$VERSION
+tar xvf $CWD/$_PRGNAM-$VERSION.tar.?z*  || exit 1
+cd $_PRGNAM-$VERSION  || exit 1
 chown -R root:root .
 find -L . \
  \( -perm 777 -o -perm 775 -o -perm 711 -o -perm 555 -o -perm 511 \) \
