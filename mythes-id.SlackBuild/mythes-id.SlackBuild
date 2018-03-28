@@ -126,4 +126,4 @@ cd $PKG
 /sbin/makepkg -l n -c n $OUTPUT/$PRGNAM-$VERSION-$ARCH-$BUILD$TAG.${PKGTYPE:-txz}
 
 echo "Cleaning up build directory"
-cd $WRK; rm -rf $PRGNAM $PKG
+cd $WRK; rm -rf $_PRGNAM-$VERSION $PKG
